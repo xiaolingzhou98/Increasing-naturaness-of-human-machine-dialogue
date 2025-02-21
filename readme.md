@@ -35,7 +35,7 @@ python metric_judge_test_glove.py<br>
 Citation.
 -------  
 If you find this study useful for your research, please cite our paper.
-
+```
 @article{zhou2022increasing,
   title={Increasing naturalness of human--machine dialogue: The users’ choices inference of options in machine-raised questions},
   author={Zhou, Xiaoling and Wu, Ou and Jiang, Chao},
@@ -45,3 +45,4 @@ If you find this study useful for your research, please cite our paper.
   year={2022},
   publisher={Elsevier}
 }
+```
